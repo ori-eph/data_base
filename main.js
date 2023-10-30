@@ -226,8 +226,4 @@ function removeMovieFromPerson(id, filmUrl) {
     }
 }
 
-console.log(removeMovieFromPerson(1, "https://swapi.dev/api/films/1/"));
-
-
-
-
+// console.log(removeMovieFromPerson(1, "https://swapi.dev/api/films/1/"));
